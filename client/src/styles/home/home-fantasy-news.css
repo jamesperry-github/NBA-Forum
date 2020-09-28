@@ -1,0 +1,40 @@
+.home-section-4 {
+    height: 600px;
+    background: #F7F5CF;
+
+}
+
+.section-4-inner {
+    width: 80%;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+    top: 5rem;
+}
+
+.fantasy-news-container {
+    float: left;
+    min-width: 30%;
+    max-width: 30%;
+    height: 350px;
+    font-size: .9rem;
+    margin: 0px 10px;
+    border: 1px solid black;
+    text-align: center;
+    overflow: hide;
+    position: relative;
+    left: 25px;
+    text-decoration: none;
+    color: black;
+    background: white;
+}
+
+.fantasy-news-h6 {
+    padding: 10px;
+    background: #1d2b34;
+    color: white;
+}
+
+#fantasy-news-p2 {
+    padding: 0px 10px;
+}
